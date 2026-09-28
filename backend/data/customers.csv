@@ -1,0 +1,6 @@
+customer_id,name,email,phone,password,address,DOB,KYC status,join date
+CUST001,Maya Shah,maya.shah@example.com,+91 98765 41028,Lloyds@123,"42 Lakeview Road, Mumbai, Maharashtra 400050",1992-04-18,Verified,2019-08-12
+CUST002,Daniel Lee,daniel.lee@example.com,+91 98204 77316,Lloyds@123,"18 Residency Lane, Bengaluru, Karnataka 560025",1987-11-03,Verified,2017-02-24
+CUST003,Aisha Khan,aisha.khan@example.com,+91 99108 22645,Lloyds@123,"9 Rosewood Enclave, New Delhi 110016",1995-07-22,Verified,2021-06-09
+CUST004,Arjun Mehta,arjun.mehta@example.com,+91 97662 84519,Lloyds@123,"71 Riverside Avenue, Pune, Maharashtra 411001",1984-01-15,Verified,2015-10-30
+CUST005,Meera Nair,meera.nair@example.com,+91 98471 33082,Lloyds@123,"26 Palm Grove, Kochi, Kerala 682020",1990-09-27,Pending review,2024-03-14
